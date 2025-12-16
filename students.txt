@@ -1,0 +1,4 @@
+S001,John Doe,john.doe@email.com,123-456-7890,123 Main St,password123,CS101;MATH101,
+S002,Jane Smith,jane.smith@email.com,123-456-7891,456 Oak Ave,password456,,CS100
+S003,Bob Johnson,bob.johnson@email.com,123-456-7892,789 Pine Rd,password789,MATH101,
+f

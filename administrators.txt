@@ -1,0 +1,2 @@
+ADMIN001,Admin User,admin@email.com,123-555-9999,999 Admin Way,admin123
+nailadmin,Naila,naila@gmail.com,02134343443,Naila town,naila123

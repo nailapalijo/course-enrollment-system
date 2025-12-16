@@ -1,0 +1,6 @@
+CS101,Introduction to Java,Learn Java programming basics,INST001,30,MW 10:00-11:30,3,CS100,S001;S002
+CS102,Data Structures,Advanced data structures in Java,INST002,25,TTH 14:00-15:30,3,CS101,
+MATH101,Calculus I,Introduction to calculus,INST003,40,MW 09:00-10:30,4,,S001;S003
+MATH202,Calculus II,Advanced calculus topics,INST003,35,TTH 11:00-12:30,4,MATH101,
+CS100,Computer Basics,Introduction to computing,INST001,50,MW 08:00-09:30,3,,
+CSE110,Human Computer Interaction,UI/UX,Naila26,60,MW 10:00-11:30,110,,
